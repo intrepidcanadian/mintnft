@@ -1,3 +1,5 @@
+#This repository attempts to modify the Scaffold-Eth 2 Speed Runner Challenge
+
 # 🚩 Challenge #0: 🎟 Simple NFT Example
 
 ![readme-0](https://github.com/scaffold-eth/se-2-challenges/assets/80153681/375b7797-6839-43cd-abe5-fca94d88e300)
